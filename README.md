@@ -1,4 +1,4 @@
-_Being bullied by a hacker.
+_Being bullied by a hacker using a DAV21 and RAT as well.
  I’m currently learning ... Im way behind in tec and need to learn how to defend myself.
   Trying to ROOT my pixle 8. First time ever attempting anything like this. Any advice you young people can share wil be appreciated more than you know.
   
